@@ -1,0 +1,26 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .classpath
+#	deleted:    .project
+#	deleted:    .settings/org.eclipse.jdt.core.prefs
+#	deleted:    README.md
+#	deleted:    bin/com/Fase.class
+#	deleted:    bin/com/Jogo.class
+#	deleted:    bin/com/LetraMarcador.class
+#	deleted:    bin/com/Main.class
+#	deleted:    bin/com/ManipulaMarcador.class
+#	deleted:    src/com/Fase.java
+#	deleted:    src/com/Jogo.java
+#	deleted:    src/com/LetraMarcador.java
+#	deleted:    src/com/Main.java
+#	deleted:    src/com/ManipulaMarcador.java
+#
+# Untracked files:
+#	resources/
+#
+
