@@ -21,4 +21,8 @@ public class MenuScript : MonoBehaviour {
     public void Sair () {
         Application.Quit();        
     }
+
+    public void MenuVoltar () {
+        SceneManager.LoadScene("Menu");
+    }
 }
